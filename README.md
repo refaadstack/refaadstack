@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @refaadstack
 - 👀 I’m interested in laravel
-- 🌱 I’m currently learning computer science in my college
+- 🌱 I love coding, just let me help you if you have a project web based
 - 📫 How to reach me email: refaad16@gmail.com
 
 <!---
