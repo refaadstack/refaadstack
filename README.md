@@ -18,14 +18,13 @@ CS graduate from Universitas Dinamika Bangsa Jambi.
 ---
 
 ### 🚀 Featured Projects (Case Studies)
-
 | Project | Real-World Problem | Tech | Status |
 |---------|-------------------|------|--------|
-| **[CeeBeeTalk](#)** | ABK struggle to communicate basic needs | React Native + Expo | Case Study |
-| **[Kasir Pro](#)** | UMKM still use manual bookkeeping | TypeScript + Supabase | In Development |
+| **[CeeBeeTalk](https://github.com/refaadstack/CeeBeeTalk)** | ABK struggle to communicate basic needs | React Native + Expo | Case Study |
+| **[Kasir Pro](https://github.com/refaadstack/kasir-pro)** | UMKM still use manual bookkeeping | Next.js 14 + TypeScript + Supabase | In Development |
+| **[Opetshop](https://github.com/refaadstack/opetshop)** | Local pet shops need online presence | Laravel 9 + MySQL + TailwindCSS | Case Study |
+| **[Siakad Wahyu](https://github.com/refaadstack/siakadwahyu)** | Schools need digital academic records | Laravel 7 + MySQL + Bootstrap | Case Study |
 | **[SaaS Undangan](#)** | Couples want beautiful digital invites | Laravel 13 + Filament 5 + Vue + Inertia | Case Study |
-| **[Petshop E-Commerce](#)** | Local pet shops need online presence | Laravel 9 + MySQL + TailwindCSS | Case Study |
-| **[Sistem Akademik](#)** | Schools need digital academic records | Laravel 7 + MySQL + Bootstrap | Case Study |
 
 &gt; 💡 **Approach:** Each project is a real-world case study based on problems I observe around me. I design, build, and validate as if they were real client projects.
 
