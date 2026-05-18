@@ -1,6 +1,5 @@
-&lt;h1 align="center"&gt;Redho Fadillah Adha&lt;/h1&gt;
-&lt;h3 align="center"&gt;Fullstack Developer → Product Builder → (Future) iOS Developer&lt;/h3&gt;
-
+<h1 align="center">Redho Fadillah Adha</h1>
+<h3 align="center">Fullstack Developer → Product Builder → (Future) iOS Developer</h3>
 ---
 
 ### 👋 About Me
