@@ -20,7 +20,7 @@ CS graduate from Universitas Dinamika Bangsa Jambi.
 ### 🔥 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=refaadstack&show_icons=true&theme=radical&hide_border=true" height="165" alt="GitHub Stats" />
+
   <img src="https://streak-stats.demolab.com?user=refaadstack&theme=radical&hide_border=true" height="165" alt="GitHub Streak" />
 </p>
 
