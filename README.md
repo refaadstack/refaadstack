@@ -17,9 +17,14 @@ CS graduate from Universitas Dinamika Bangsa Jambi.
 
 ---
 
-### 🔥 GitHub Streak
+### 🔥 GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=refaadstack&theme=radical&hide_border=true)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=refaadstack&show_icons=true&theme=radical&hide_border=true" height="165" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=refaadstack&theme=radical&hide_border=true" height="165" alt="GitHub Streak" />
+</p>
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=refaadstack&theme=react-dark&hide_border=true)
 
 ---
 
@@ -40,14 +45,20 @@ CS graduate from Universitas Dinamika Bangsa Jambi.
 ### 🛠️ Technical Background
 
 **3+ years professional experience with:**
-- Laravel, PHP, MySQL, Livewire
-- JavaScript, RESTful API, Git
-- Payment gateway integration (Midtrans)
-- Authentication & authorization systems
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=laravel,php,mysql,js,git" alt="Core stack" />
+</p>
+
+Payment gateway integration (Midtrans) · Authentication & authorization systems
 
 **Currently exploring:**
-- TypeScript & Supabase (modern SaaS stack)
-- AI-assisted development workflows
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ts,supabase,nextjs,vue" alt="Currently exploring" />
+</p>
+
+AI-assisted development workflows
 
 ---
 
