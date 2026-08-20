@@ -20,7 +20,7 @@ CS graduate from Universitas Dinamika Bangsa Jambi.
 
 ### GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=refaadstack)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=refaadstack&theme=dark&hide_border=true&timezone=UTC%2B7&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=refaadstack&theme=react-dark&hide_border=true)
 
